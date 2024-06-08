@@ -20,3 +20,5 @@ git status
 git commit -m
 git push
 
+git remote add origin git@github.com:%ИМЯ_АККАУНТА%/first-project.git
+git remote -v
